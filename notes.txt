@@ -1,0 +1,14 @@
+append - adding
+
+tolist() -  to convert data into list{array}
+createDisplot - Bell Curve
+plotly.figure_factory
+
+How to readd csv file?
+using pandas at read_csv
+
+show_hist = True/false shows histogram or not
+
+to plot bar graph:
+
+var = px.bar(x,y)
